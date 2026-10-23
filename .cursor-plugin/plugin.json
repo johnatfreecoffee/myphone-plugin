@@ -1,0 +1,14 @@
+{
+  "name": "myphone",
+  "version": "1.0.0",
+  "description": "Gives an AI agent its own phone number for calls and texts.",
+  "author": {
+    "name": "MyPhone",
+    "email": "hello@myphone.host"
+  },
+  "homepage": "https://myphone.host",
+  "repository": "https://github.com/johnatfreecoffee/myphone-plugin",
+  "license": "MIT",
+  "keywords": ["phone", "sms", "calls", "voicemail"],
+  "logo": "assets/logo.png"
+}

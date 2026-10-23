@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "myphone": {
+      "url": "https://myphone.host/mcp"
+    }
+  }
+}
