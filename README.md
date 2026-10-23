@@ -9,6 +9,24 @@ A MyPhone account billed on myphone.host is required. This plugin does not creat
 - Terms: https://myphone.host/terms
 - Privacy: https://myphone.host/privacy
 
+## Compliance
+
+This plugin gives your Grok Bot a real phone number from MyPhone. Texts and calls go through Twilio, and
+MyPhone is the registered brand with the carriers (A2P 10DLC), so the rules below apply to everyone.
+
+By using MyPhone you agree to the [Terms of Service](https://myphone.host/terms) and
+[Privacy Policy](https://myphone.host/privacy). In short:
+
+- Only text or call people who agreed to hear from you. Keep proof of their consent.
+- Honor STOP right away and answer HELP. Don't bypass opt-out handling.
+- No spam, phishing, scams, spoofing, or SHAFT content (sex, hate, alcohol, firearms, tobacco/cannabis).
+- Follow the TCPA, CTIA Messaging Principles, carrier rules, and Twilio's Acceptable Use Policy.
+- MyPhone may suspend or end accounts that break these rules and may pass carrier fines on to you.
+
+This code is open source, but using a MyPhone number is governed by the site terms, not the code license.
+
+The full messaging rules are also at [https://myphone.host/acceptable-use](https://myphone.host/acceptable-use). Terms version 2026-10-23 includes §3A.
+
 ## Sign-in
 
 Cursor or Grok Bot starts OAuth when the server is added. The browser opens MyPhone. Sign in with the mobile number on the account, then the 6-digit code from the text. A new account also asks for a name. Then choose Allow.
