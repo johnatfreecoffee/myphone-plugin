@@ -1,7 +1,8 @@
 {
   "name": "myphone",
-  "version": "1.0.0",
-  "description": "Gives an AI agent its own phone number for calls and texts.",
+  "displayName": "MyPhone",
+  "version": "1.0.1",
+  "description": "Real phone numbers for AI agents: place and answer calls, send and receive SMS and picture messages, voicemail, live call control, and three-way conferencing through a hosted MCP connector. OAuth sign-in keeps carrier and billing credentials on MyPhone so the agent never holds keys. Built for Grok Bot and Cursor.",
   "author": {
     "name": "MyPhone",
     "email": "hello@myphone.host"
@@ -9,6 +10,6 @@
   "homepage": "https://myphone.host",
   "repository": "https://github.com/johnatfreecoffee/myphone-plugin",
   "license": "MIT",
-  "keywords": ["phone", "sms", "calls", "voicemail"],
-  "logo": "assets/logo.png"
+  "keywords": ["phone", "sms", "calls", "voicemail", "mcp", "oauth"],
+  "logo": "assets/logo.svg"
 }

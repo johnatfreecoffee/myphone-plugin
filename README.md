@@ -164,8 +164,8 @@ This repository has no dependencies.
 
 ## Logos
 
-- `assets/logo.svg` is the MyPhone mark on a `#05070D` plate.
-- `assets/logo.png` is the same mark as a 1024×1024 PNG with no transparency.
+- `assets/logo.svg` is the MyPhone mark on a `#000000` square (512×512 viewBox).
+- `assets/logo.png` is the same mark as a 512×512 PNG.
 
 ## Reviewer testing
 
